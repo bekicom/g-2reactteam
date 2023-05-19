@@ -6,7 +6,8 @@ function App() {
       
       salom
       salom2
-     
+      SBAHSBHB
+     <p>maxa vorzakon</p>
     </div>
   );
 }
