@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       
       salom
+      salom2
      
     </div>
   );
